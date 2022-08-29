@@ -1,0 +1,8 @@
+This Project is created by Nitish Pal.
+This project is all about the online bookstore works and the basic fundamentals.
+Its includes admin panel : In that different functionalities are used that are used to modify and perform CRUD operatopn in the datatbase.
+Order Functionality is ued to track the order status.
+This project includes the registration form login form.
+
+For the admin panel: PHP,MySQl.
+For the userside or index page: HTML,CSS,BOOTSTRAP,JQuery is used.
